@@ -15,7 +15,7 @@
 
 - name: Abdullah Almaatouq
   image: /assets/images/Abdullah_Almaatouq.jpeg
-  bio: bdullah Almaatouq is a computational social scientist and Assistant Professor at the MIT Sloan School of Management. His research focuses on improving cooperation, coordination, and collective intelligence in decision-making systems, such as teams, committees, crowds, markets, and elections. Abdullah also explores ways to advance social and behavioral research methodology through innovative research designs and theory-building strategies, with the ultimate goal of developing a deeper understanding of collective decision systems and how to design them effectively in various contexts. 
+  bio: Abdullah Almaatouq is a computational social scientist and Assistant Professor at the MIT Sloan School of Management. His research focuses on improving cooperation, coordination, and collective intelligence in decision-making systems, such as teams, committees, crowds, markets, and elections. Abdullah also explores ways to advance social and behavioral research methodology through innovative research designs and theory-building strategies, with the ultimate goal of developing a deeper understanding of collective decision systems and how to design them effectively in various contexts. 
   website: http://amaatouq.io/
 
 - name: Paola Tubaro 
@@ -32,3 +32,8 @@
   image: /assets/images/ugur.jpg
   bio: Ugur is a Lecturer in Quantitative Political Science at the University of Edinburgh. His research interests include comparative political behavior, formal models of electoral politics, and quantitative methods. He is a dedicated advocate of bridging the gap between theoretical modeling and empirical analysis. 
   website: https://uozdemir.net/
+
+- name: Adam Chalmers
+  image: /assets/images/adamchalmers.jpeg
+  bio:  Adam Chalmers is a Senior Lecturer in Politics and International Relations at the University of Edinburgh. He earned my B.A. and M.A. from York University (Canada) and  Ph.D. in Political Science at McGill University. Before coming to Edinburgh, he worked in the Department of Political Economy at King's College London and, before that, in the Institute of Political Science at Leiden University (Netherlands). His research focuses on corporate lobbying,corporate sustainability policy, and natural language processing.
+  website: http://www.adamwilliamchalmers.com/
